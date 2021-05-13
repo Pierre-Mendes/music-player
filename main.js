@@ -34,13 +34,6 @@ let track_list = [
     image: "images/fogueira.webp",
     path: "https://s19.aconvert.com/convert/p3r68-cdx67/mahzb-dk98y.mp3"
   },
-
-  {
-    name: "Festa Junina!!!!",
-    artist: "Confraria da Gula",
-    image: "images/fogueira.webp",
-    path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Chad_Crouch/Arps/Chad_Crouch_-_Shipping_Lanes.mp3",
-  },
 ];
 
 function random_bg_color() {
