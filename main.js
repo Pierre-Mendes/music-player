@@ -25,14 +25,14 @@ let track_list = [
     name: "Festa Junina!!!!",
     artist: "Confraria da Gula",
     image: "images/fogueira.webp",
-    path: "https://s19.aconvert.com/convert/p3r68-cdx67/7eblk-1sx3w.mp3"
+    path: "music/Quadrilha Junina Clássica.mp3"
   },
   
   {
     name: "Festa Junina!!!!",
     artist: "Confraria da Gula",
     image: "images/fogueira.webp",
-    path: "https://s19.aconvert.com/convert/p3r68-cdx67/mahzb-dk98y.mp3"
+    path: "music/yt1s.com - Festa Junina  Pula a fogueira  Poutpourri.mp3"
   },
 ];
 
