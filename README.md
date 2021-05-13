@@ -1,7 +1,6 @@
 # js-music-player
-This is a simple User Interface of a music player created in HTML, CSS and JavaScript.
-
-![Output](/output/html-css.png)
+This is a simple User Interface of a music player created in HTML, CSS and JavaScript 
+This player was created to Confraria da Gula.
 
 ## Running the player
 
